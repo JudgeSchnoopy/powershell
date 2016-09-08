@@ -1,0 +1,1 @@
+for($i = 1; $i -lt 101; $i++ ) {write-progress -activity Updating -status 'Progress->' -percentcomplete $i}
